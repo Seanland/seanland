@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Sean Clarke.  
+
+I am a Solutions Engineer at Snyk on the Enterprise East Team!
 
 <!--
 **Seanland/seanland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
