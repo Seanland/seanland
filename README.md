@@ -1,8 +1,10 @@
-## Hi there 👋
+## Howdy! 👋
 
 My name is Sean Clarke.  
 
-I am a Solutions Engineer at Snyk on the Enterprise East Team!
+I am the founding Senior Solutions Architect at [crash override](crashoverride.com).
+
+More to come... 
 
 <!--
 **Seanland/seanland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
