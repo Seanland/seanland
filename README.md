@@ -2,7 +2,7 @@
 
 My name is Sean Clarke.  
 
-I am the founding Senior Solutions Architect at [crash override](crashoverride.com).
+I am the founding Senior Solutions Architect at [crashoverride](https://crashoverride.com).
 
 More to come... 
 
